@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mengzaozao
 - 👀 I’m interested in science
 - 🌱 I’m currently learning plant science papers
-- 💞️ I’m looking to collaborate on science or R
+- 💞️ I’m looking to collaborate on science 
 - 📫 How to reach me
    email:zlmeng@psc.ac.cn
 
